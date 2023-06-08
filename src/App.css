@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(252, 249, 249) !important;
+}
+.gsc-search-box {
+    margin-bottom: 20px !important;
+}
+.gsc-control-cse {
+    margin: 0;
+    border: none !important;
+    background-color: rgb(252, 249, 249) !important;
+}
+.gsc-webResult .gsc-result {
+    margin-bottom: 20px !important;
+}
+.gsc-search-button {
+    border: none;
+    background-color: white;
+}
+.gsc-input-box {
+    border-radius: 0 !important;
+}
