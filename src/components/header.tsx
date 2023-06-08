@@ -1,4 +1,4 @@
-import pawxyLogo from "../assets/pawxy-logo.jpeg";
+import pawxyLogo from "../assets/search-img.png";
 import "./header.css";
 
 const Header = () => {
